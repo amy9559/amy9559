@@ -1,4 +1,4 @@
-## Hi there, I'm Amy Your Name] 👋
+## Hi there, I'm Amy  👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
