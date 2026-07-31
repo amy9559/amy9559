@@ -24,9 +24,9 @@ Still curious, still learning, and always up for the next dataset that has a sto
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **HVAC Analytics Project:** Reading HVAC performance data for the warning signs before a system goes down. 
+- **Restaurant Sales Analysis:** Turning one restaurant's sales and reviews into a forecast the owner actually checks.
+- **Student Records Archive Database:** One SQL database that finally answers "what's missing?" for 20 years of student records.
 
 ## 🌱 Currently Learning 
 
