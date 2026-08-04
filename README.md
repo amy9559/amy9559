@@ -30,8 +30,9 @@ Still curious, still learning, and always up for the next dataset that has a sto
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Time‑series forecasting — ARIMA, Prophet, seasonal trends.
+- Sentiment analysis — turning reviews into insights.
+- Data validation — missing data detection, consistency rules.
 
 ## 🛠️ Technical Skillset
 
